@@ -71,6 +71,8 @@ p {
 
 .content {
     width: 75%;
+    min-height: 1014px;
+    max-width: 1015px;
     display: inline-block;
     margin-left: 20px;
 }
@@ -81,7 +83,8 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    min-height: 975px;
+    max-height: 1015px;
     font-family: 'Gill Sans', 'Gill Sans MT';
     background-color: #2589bd;
 }
@@ -113,7 +116,7 @@ p {
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 318px;
+    height: 312px;
     font-family: 'Gill Sans', 'sans-serif';
     background-color: #0072bb;
     color: #ffffff;
